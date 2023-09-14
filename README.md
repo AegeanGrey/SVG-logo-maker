@@ -24,7 +24,7 @@ git@github.com:AegeanGrey/SVG-logo-maker.git
 
 `code .`
 
-We will then need to install the required packages/modules for the README Generator to work:
+We will then need to install the required packages/modules for the SVG Logo Maker to work:
 
 4.) In the Code Editor, right click on the 'index.js' file and select 'Open in Integrated Terminal'
 
